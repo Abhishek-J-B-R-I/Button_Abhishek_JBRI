@@ -1,3 +1,3 @@
 library buttonabhishekjbri;
 
-export 'src/ButtonAbhishekJBRI.dart';
+export 'src/button_abhishek_jbri.dart';
