@@ -28,7 +28,7 @@ Run `flutter pub get` to install the package.
 Here's an example of how to use the `ButtonAbhishekJBRI` widget in your Flutter application:
 
 ### Simple Button with Default Styling
-![Screenshot](https://github.com/Abhishek-J-B-R-I/ButtonAbhishekJBRI/assets/image11.png)
+![image11](https://github.com/user-attachments/assets/3a4f1dc9-c70c-4e56-9902-fbf56af19505)
 ```dart
 import 'package:flutter/material.dart';
 import 'package:button_abhishek_jbri/button_abhishek_jbri.dart';
@@ -54,7 +54,7 @@ class MyHomePage extends StatelessWidget {
 ```
 
 ### Custom Button with Gradient Background and Rounded Borders
-![Screenshot](https://github.com/Abhishek-J-B-R-I/ButtonAbhishekJBRI/assets/image12.png)
+![image12](https://github.com/user-attachments/assets/fcb2d63c-2ca9-4172-bb35-b2550ce7f550)
 ```dart
 ButtonAbhishekJBRI(
   titleButton: "Submit",
@@ -70,7 +70,7 @@ ButtonAbhishekJBRI(
 ```
 
 ### Custom Button with Individual Corner Radius
-![Screenshot](https://github.com/Abhishek-J-B-R-I/ButtonAbhishekJBRI/assets/image14.png)
+![image14](https://github.com/user-attachments/assets/04a7e57f-20f9-47b8-8ab9-8a3bc6fa97f6)
 ```dart
 ButtonAbhishekJBRI(
   titleButton: "Cancel",
@@ -88,7 +88,7 @@ ButtonAbhishekJBRI(
 ```
 
 ### Button with Text Styling
-![Screenshot](https://github.com/Abhishek-J-B-R-I/ButtonAbhishekJBRI/assets/image13.png)
+![image13](https://github.com/user-attachments/assets/24c079e9-7838-4826-a627-7079454801fc)
 ```dart
 ButtonAbhishekJBRI(
   titleButton: "Go",
@@ -121,7 +121,7 @@ ButtonAbhishekJBRI(
 
 ## Example Screenshots
 
-![Screenshot](https://github.com/Abhishek-J-B-R-I/ButtonAbhishekJBRI/assets/image11.png)
+![image13](https://github.com/user-attachments/assets/24c079e9-7838-4826-a627-7079454801fc)
 *Example of a basic button*
 
 
@@ -132,7 +132,7 @@ We welcome contributions to **ButtonAbhishekJBRI**! If you'd like to contribute,
 To get started:
 
 1. Fork the repository on GitHub.
-2. Clone your fork: `git clone https://github.com/Abhishek-J-B-R-I/ButtonAbhishekJBRI.git`
+2. Clone your fork: `git clone https://github.com/Abhishek-J-B-R-I/Button_Abhishek_JBRI.git`
 3. Create a new branch for your feature or bug fix: `git checkout -b feature-name`
 4. Commit your changes: `git commit -am 'Add new feature'`
 5. Push to the branch: `git push origin feature-name`
@@ -142,7 +142,7 @@ To get started:
 
 If you encounter any issues, please report them by creating an issue on GitHub:
 
-[Report an issue](https://github.com/Abhishek-J-B-R-I/ButtonAbhishekJBRI.git)
+[Report an issue](https://github.com/Abhishek-J-B-R-I/Button_Abhishek_JBRI.git)
 
 ## License
 
@@ -172,6 +172,6 @@ THE SOFTWARE.
 
 ## Homepage
 
-For more information, visit the [ButtonAbhishekJBRI GitHub repository](https://github.com/Abhishek-J-B-R-I/ButtonAbhishekJBRI.git).
+For more information, visit the [ButtonAbhishekJBRI GitHub repository](https://github.com/Abhishek-J-B-R-I/Button_Abhishek_JBRI.git).
 
 ```
