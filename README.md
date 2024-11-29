@@ -28,7 +28,8 @@ Run `flutter pub get` to install the package.
 Here's an example of how to use the `ButtonAbhishekJBRI` widget in your Flutter application:
 
 ### Simple Button with Default Styling
-![Screenshot](https://github.com/Abhishek-J-B-R-I/ButtonAbhishekJBRI/assets/image11.png)
+![image11](https://github.com/user-attachments/assets/3a4f1dc9-c70c-4e56-9902-fbf56af19505)
+
 ```dart
 import 'package:flutter/material.dart';
 import 'package:button_abhishek_jbri/button_abhishek_jbri.dart';
@@ -54,7 +55,7 @@ class MyHomePage extends StatelessWidget {
 ```
 
 ### Custom Button with Gradient Background and Rounded Borders
-![Screenshot](https://github.com/Abhishek-J-B-R-I/ButtonAbhishekJBRI/assets/image12.png)
+![image12](https://github.com/user-attachments/assets/fcb2d63c-2ca9-4172-bb35-b2550ce7f550)
 ```dart
 ButtonAbhishekJBRI(
   titleButton: "Submit",
@@ -70,7 +71,7 @@ ButtonAbhishekJBRI(
 ```
 
 ### Custom Button with Individual Corner Radius
-![Screenshot](https://github.com/Abhishek-J-B-R-I/ButtonAbhishekJBRI/assets/image14.png)
+![image14](https://github.com/user-attachments/assets/04a7e57f-20f9-47b8-8ab9-8a3bc6fa97f6)
 ```dart
 ButtonAbhishekJBRI(
   titleButton: "Cancel",
@@ -88,7 +89,7 @@ ButtonAbhishekJBRI(
 ```
 
 ### Button with Text Styling
-![Screenshot](https://github.com/Abhishek-J-B-R-I/ButtonAbhishekJBRI/assets/image13.png)
+![image13](https://github.com/user-attachments/assets/24c079e9-7838-4826-a627-7079454801fc)
 ```dart
 ButtonAbhishekJBRI(
   titleButton: "Go",
